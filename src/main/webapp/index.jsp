@@ -7,7 +7,7 @@
 
 <body bgcolor="#81E548">
 <center>
-<h2> <font color="#F80F2B"> Welcome TO Vehicles Hub  </font> </h2>
+<h2> <font color="#F80F2B"> Vehicles Hub  </font> </h2>
 </center>	
 </body>
 </html>
